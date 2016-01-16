@@ -1,0 +1,11 @@
+How to use Git Hub
+CD to shed directory
+git fetch
+if change found git merge name of change
+work on programming
+Git status shows files changed
+if in red: git add <filename>
+git status : should now be in green
+do regular git commit -m "<message>"  which commits locally
+once finished for the day: git push origin master
+That will save it to the hub
